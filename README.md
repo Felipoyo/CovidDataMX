@@ -1,0 +1,2 @@
+# CovidDataMX
+Información de Covid
